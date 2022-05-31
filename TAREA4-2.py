@@ -1,3 +1,4 @@
+# HERIBERTO FORERO CORREA
 #WEEK4-5 - HOMEWORK
 fname = input("Enter file name: ")
 if len(fname) < 1:
